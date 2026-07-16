@@ -1,0 +1,6 @@
+{
+  "name": "Home Workout Tracker",
+  "description": "An elite, offline-first 4-day workout cycle and progress tracker built with Kotlin, Room, and Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
